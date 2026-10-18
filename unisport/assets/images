@@ -1,0 +1,4 @@
+<?php
+<img class="brand-logo" src="<?= h(asset('Downloads\logo.web.png')) ?>" alt="โลโก้">
+<?php
+<div class="big"><img src="<?= h(asset('Downloads\run.register.png')) ?>" alt="นักวิ่ง"></div>
